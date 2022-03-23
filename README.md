@@ -1,2 +1,5 @@
-# rest-client-in-android
-DSA exercise made to practice with RecyclerView class that supports the display of a collection of data &amp; Retrofit which is a REST Client for Android.
+REST Client in Android
+
+Small application that allows you to display of a collection of data.
+
+Adrián Quirós.
